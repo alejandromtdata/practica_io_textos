@@ -1,0 +1,9 @@
+id_venta,fecha,cliente,producto,precio,cantidad,canal
+1,2024-01-05,Ana López,Teclado,25.5,2,web
+2,05/01/2024,Carlos Ruiz,Ratón,15,1,tienda
+3,2024-01-06,,Monitor,180,1,web
+4,2024-01-06,Marta Pérez,Teclado,25.50,,tienda
+5,2024/01/07,Juan Gómez,Portátil,850,1,web
+6,2024-01-07,Ana López,Ratón,15,-1,web
+7,2024-01-08,Carlos Ruiz,Monitor,180,1,
+8,2024-01-08,Ana López,Teclado,25,2,web

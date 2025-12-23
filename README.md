@@ -50,16 +50,6 @@ pandas
 
 Jupyter Notebook
 
-## Estructura del proyecto
-
-├── data/
-│   └── raw/
-│       └── ventas_sucias.csv
-├── notebooks/
-│   └── 01_analisis_ventas.ipynb
-├── requirements.txt
-└── README.md
-
 ## Objetivo del proyecto
 
 Este proyecto forma parte de una serie de prácticas de análisis de datos orientadas 
